@@ -1,0 +1,18 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh idInFile="-1" visible="1" label="boy.ply" filename="C:/Users/siva/Desktop/boy.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption pointSize="3" wireWidth="1" wireColor="64 64 64 255" solidColor="192 192 192 255" boxColor="234 234 234 255" pointColor="252 233 79 255">101001000000010000000100000001011000001010100000110100111010000111001001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="1" label="point_cloud.ply" filename="C:/Users/siva/Desktop/point_cloud.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption pointSize="9" wireWidth="2" wireColor="64 64 64 255" solidColor="192 180 9 255" boxColor="234 234 234 255" pointColor="139 252 10 255">110111000000000000000110000001011010001010100000011000111000001111101001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
